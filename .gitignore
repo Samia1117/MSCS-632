@@ -1,0 +1,12 @@
+# compiled binaries
+section1/fixed_sum
+section1/buggy_sum
+section2/type_demo
+section3/*.out
+section3/a.out
+
+# Java class files
+*.class
+
+# macOS
+.DS_Store
